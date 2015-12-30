@@ -1,4 +1,4 @@
-# Required Libraries According to Apple Open Source (aos/Makefile-main)
+### Required Libraries According to Apple Open Source (aos/Makefile-main)
 lc  
 lcommonCrypto  
 ldyldapis  
@@ -12,7 +12,7 @@ llaunch
 lcopyfile  
 lremovefile  
 
-# Conditional Libraries (???)
+### Conditional Libraries (???)
 unc  
 sandbox  
 quarantine  
